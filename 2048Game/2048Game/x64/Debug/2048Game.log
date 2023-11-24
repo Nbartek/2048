@@ -1,0 +1,22 @@
+﻿  2048Game.cpp
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         ]
+  2048Game.vcxproj -> C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\x64\Debug\2048Game.exe

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\2048Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\2048Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\Gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09C39025-8A93-4CF7-94EF-0A3687A239F8}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\Gra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.cpp",
+              "RelativeDocumentMoniker": "2048Game\\Menu.cpp",
+              "ToolTip": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.cpp",
+              "RelativeToolTip": "2048Game\\Menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-13T22:02:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.h",
+              "RelativeDocumentMoniker": "2048Game\\Menu.h",
+              "ToolTip": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Menu.h",
+              "RelativeToolTip": "2048Game\\Menu.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-13T22:00:45.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gra.cpp",
+              "DocumentMoniker": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.cpp",
+              "RelativeDocumentMoniker": "2048Game\\Gra.cpp",
+              "ToolTip": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.cpp",
+              "RelativeToolTip": "2048Game\\Gra.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-03T16:32:10.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gra.h",
+              "DocumentMoniker": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.h",
+              "RelativeDocumentMoniker": "2048Game\\Gra.h",
+              "ToolTip": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\Gra.h",
+              "RelativeToolTip": "2048Game\\Gra.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-02T14:28:00.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2048Game.cpp",
+              "DocumentMoniker": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\2048Game.cpp",
+              "RelativeDocumentMoniker": "2048Game\\2048Game.cpp",
+              "ToolTip": "C:\\Users\\nack2\\OneDrive\\Pulpit\\Github Repositories\\2048\\2048Game\\2048Game\\2048Game.cpp",
+              "RelativeToolTip": "2048Game\\2048Game.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-20T14:36:55.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

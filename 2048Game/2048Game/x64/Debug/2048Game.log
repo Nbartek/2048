@@ -1,22 +1,61 @@
 ﻿  2048Game.cpp
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         with
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         [
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:             T=float
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(32,38): warning C4305:         ]
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         with
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         [
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:             T=float
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(35,39): warning C4305:         ]
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         with
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         [
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:             T=float
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(38,43): warning C4305:         ]
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         with
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         [
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:             T=float
-C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(41,44): warning C4305:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\2048Game.cpp(61,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gra.cpp
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,46): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,46): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,46): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,46): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,30): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,30): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,30): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(81,30): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(85,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(85,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(131,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(131,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(137,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,49): warning C4267:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,49): warning C4267:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,49): warning C4267:             T=int
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,49): warning C4267:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,46): warning C4267:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,46): warning C4267:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,46): warning C4267:             T=int
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(155,46): warning C4267:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(197,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(197,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(204,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Gra.cpp(204,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(16,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(16,62): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(16,62): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(16,62): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(16,62): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(22,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(22,64): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(22,64): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(22,64): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(22,64): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,72): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,72): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,72): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,72): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,45): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,45): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,45): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(27,45): warning C4244:         ]
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(32,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(32,64): warning C4244:         with
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(32,64): warning C4244:         [
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(32,64): warning C4244:             T=float
+C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\2048Game\Menu.cpp(32,64): warning C4244:         ]
+  Generating Code...
   2048Game.vcxproj -> C:\Users\nack2\OneDrive\Pulpit\Github Repositories\2048\2048Game\x64\Debug\2048Game.exe
